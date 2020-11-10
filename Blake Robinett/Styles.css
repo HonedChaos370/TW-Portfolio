@@ -1,10 +1,33 @@
 body {
+    /*
     background-image: url("Images/Sample Background.png");
     background-repeat: repeat-y;
+    */
+    background-color: #80bbff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
 }
 
-div.content {
-    /*width: 90%;
-    opacity: 0.5;*/
-    background-color: #ffffff;
+h1, h3, h6 {
+    color: #0080ff;
+    color: #ffffff;
+}
+
+h2, h4, h6, p {
+    color: #ffffff;
+}
+
+main {
+    margin: auto;
+    width: 90%;
+    height: 90%;
+    background-color: rgba(0, 0, 20, 0.8);
+    padding: 2%;
+}
+
+header {
+    background-color: #000000;
+    text-align: center;
+    font-size: 20pt;
+    color: black;
 }
