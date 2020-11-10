@@ -1,0 +1,10 @@
+body {
+    background-image: url("Images/Sample Background.png");
+    background-repeat: repeat-y;
+}
+
+div.content {
+    /*width: 90%;
+    opacity: 0.5;*/
+    background-color: #ffffff;
+}
