@@ -41,10 +41,10 @@ h2, h4, h6, p {
 
 .myName {
     color: #33e0ff;
+    color: white;
 }
 
 .menu {
-    align: center;
     display: inline-block;
 }
 
@@ -59,12 +59,33 @@ h2, h4, h6, p {
 .leftBR {
     font-weight: bold;
     display: inline-block;
-    content-align: left;
 }
 
 .rightBR {
     font-weight: bold;
     text-align: right;
     display: inline-block;
-    position: ;
+}
+
+
+a:link {
+    color: white;
+    background-color: #33e0ff;
+    padding: 5px;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+  
+a:active {
+    color: white;
+    text-decoration: none;
 }
