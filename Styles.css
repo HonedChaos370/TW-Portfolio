@@ -3,9 +3,12 @@ body {
     background-image: url("Images/Sample Background.png");
     background-repeat: repeat-y;
     */
-    background-color: #0066dd;
+    background-image: url("Images/Blue Background.png");
+    background-repeat: repeat-y;
+    /*background-color: #0066dd;*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0px;
+    height: 12000px;
 }
 
 h1, h3, h6 {
@@ -35,4 +38,10 @@ header {
     text-align: center;
     font-size: 20pt;
     color: black;
+}
+
+.title {
+    text-align: center;
+    font-size: 24pt;
+    padding: 5%;
 }
