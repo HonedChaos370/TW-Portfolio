@@ -50,35 +50,36 @@ h2, h4, h6, p {
 
 .menu {
     display: inline-block;
-    left: 50%;
-    text-align: center;
-    position: relative;
+    left: 31%;
+    width: 110%;
+    position: fixed;
     top: 0;
 }
 
 .aboutMe {
-    /*display: inline-block;*/
+    display: inline-block;
+    padding-right: 1%;
 }
 
 .works {
-    /*display: inline-block;*/
+    display: inline-block;
 }
 
 .leftBR {
     font-weight: bold;
-    /*display: inline-block;*/
-    left: 0px;
+    display: inline-block;
+    left: 0;
 }
 
 .rightBR {
     font-weight: bold;
-    /*display: inline-block;*/
-    right: 0;
+    display: inline-block;
+    float: right;
+    /*right: 0;*/
 }
 
 a:link {
     color: white;
-    background-color: #33e0ff;
     padding: 5px;
     text-decoration: none;
 }
@@ -90,6 +91,7 @@ a:visited {
   
 a:hover {
     color: white;
+    background-color: #33e0ff;
     text-decoration: none;
 }
   
