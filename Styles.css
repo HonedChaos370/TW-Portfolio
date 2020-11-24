@@ -37,16 +37,15 @@ main.h1, main.h3, main.h6, main.h2, main.h4, main.h6, main.p {
     padding: 5%;
 }
 
-.myName {
+.mainTitle {
     color: #33e0ff;
     color: white;
     color: black;
     margin-block-start: 0em;
     margin-block-end: 0em;
-
 }
 
-.techWrit {
+.subTitle {
     color: white;
     margin-block-start: 0em;
     margin-block-end: 0em;
