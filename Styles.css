@@ -11,6 +11,10 @@ main.h1, main.h3, main.h6, main.h2, main.h4, main.h6, main.p {
     margin-block-end: 0.3em;
 }
 
+main.h2, main.h4, main.h6 {
+    color: white;
+}
+
 .main {
     margin: auto;
     width: 70%;
