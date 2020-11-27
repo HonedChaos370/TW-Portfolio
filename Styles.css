@@ -81,12 +81,14 @@ main.h2, main.h4, main.h6 {
     left: 0;
 }
 
+/*
 .rightBR {
     font-weight: bold;
     display: inline-block;
     float: right;
-    /*right: 0;*/
+    /*right: 0;
 }
+*/
 
 a:link {
     color: white;
