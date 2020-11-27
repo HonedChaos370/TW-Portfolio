@@ -26,20 +26,21 @@ main.h2, main.h4, main.h6 {
 .header {
     /*background-color: #202025;*/
     /*text-align: center;*/
+    margin: auto;
     font-size: 20pt;
     color: white;
     position: sticky;
     top: 0;
     width: 100%;
     background-color: #0066dd;
-    padding: 5px;
+    margin: 5px;
 }
 
 
 .title {
     text-align: center;
     font-size: 24pt;
-    padding: 5%;
+    margin: 5%;
 }
 
 .mainTitle {
